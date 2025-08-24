@@ -1,6 +1,6 @@
 # Custom Countdown Timer Website
 
-A small practice project using JavaScript, HTML, and CSS to build a custom countdown timer.  
+A practice project using JavaScript, HTML, and CSS to build a custom countdown timer.  
 Includes a video background so waiting for the timer feels more fun.
 
 ## 🚀 Live Demo
